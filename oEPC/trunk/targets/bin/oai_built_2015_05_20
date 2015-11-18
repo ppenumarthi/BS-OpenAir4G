@@ -1,0 +1,9 @@
+OPENAIR_HOME    = /home/phanik/oEPC/trunk
+OPENAIR1_DIR    = /home/phanik/oEPC/trunk/openair1
+OPENAIR2_DIR    = /home/phanik/oEPC/trunk/openair2
+OPENAIR3_DIR    = /home/phanik/oEPC/trunk/openair3
+OPENAIRCN_DIR   = /home/phanik/oEPC/trunk/openair-cn
+OPENAIR_TARGETS = /home/phanik/oEPC/trunk/targets
+User-defined Parameters :  HW=NONE, TARGET=OAISIM, ENB_S1=1, REL=REL8, RT=NONE, DEBUG=0 XFORMS=0
+SOFTMODEM Compilation directives: DEBUG=0 XFORMS=0  USE_MME=R10 ENABLE_ITTI=1 LINK_PDCP_TO_GTPV1U=1  SECU=1  DISABLE_XER_PRINT=1  Rel8=1  RTAI=0  LIBCONFIG_LONG=1 
+OAISIM Compilation directive:     LIBCONFIG_LONG=1 
